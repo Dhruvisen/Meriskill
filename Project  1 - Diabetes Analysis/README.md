@@ -1,4 +1,4 @@
-<h6>Diabetes Prediction System</h6>
+###### Diabetes Prediction System
 This project presents a predictive model for diagnosing diabetes based on the analysis of diagnostic measurements. The dataset utilized is sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, specifically focusing on females aged at least 21 years old of Pima Indian heritage. The primary objective is to predict the likelihood of a patient having diabetes through the examination of various medical predictor variables.
 
 __Objective__
